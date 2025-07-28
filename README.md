@@ -1,4 +1,8 @@
-# Bitcoin Market Sentiment and Trader Performance Analysis
+# 📊 Bitcoin Market Sentiment and Trader Performance Analysis
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
 
 A comprehensive analysis tool that examines the relationship between Bitcoin market sentiment (Fear/Greed Index) and trader performance data from Hyperliquid to uncover patterns and insights for smarter trading strategies.
 
